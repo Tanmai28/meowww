@@ -1,4 +1,4 @@
-<img width="1883" height="866" alt="image" src="https://github.com/user-attachments/assets/6fd5dd68-a444-4a33-9eb3-ea597a73713f" /># Meowww
+# Meowww
 
 A minimal single-page React app that uses the Cat as a Service API (https://cataas.com/) to fetch and display cat images and GIFs.
 
